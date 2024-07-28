@@ -1,72 +1,22 @@
-<h1 align="center">Projeto Artigo Técnico gerado por I.A.s</h1>
 
 
-<p align="center">
-<img 
-    src="./assets/readme.png"
-    width="400"  
-/>
-</p>
-
----
-
-## Projeto Artigo Técnico gerado por I.A.s
+<h1 align="center">Projeto Podcast gerado por I.A.s</h1>
 
 
- > ℹ️ Repositório criado durante o curso Bootcamp Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me)
+## 🧠 Prompt Utilizado para criar o nome do Podcast 
 
-Projeto com o objetivo de criar um artigo técnico utilizando Inteligência Artificial.
-Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Artigo.
-
-<a href="https://dio.me/articles/defenda-seus-dispositivos-estrategias-essenciais-para-seguranca-em-iot" > 📕Clique aqui para ler o artigo</a>
-
----
-
-## 💻 Tecnologias Utilizadas na criação do Artigo
-
-- 🧠 [OpenAI GPT-4](https://chat.openai.com/) 
-- 🎨 [Lexica.art](https://lexica.art/)
-- 📚 [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
----
-
-## 🧠 Prompts Utilizados
-
-| Ação         | Prompt                        |
-|--------------|-------------------------------|
-| **Título**   | Me dê 10 ideias de temas relacionados a tecnologia pra que eu possa criar um artigo técnico|
-| **Conteúdo** | Comporte-se como um escritor de artigos de tecnologia e segurança da informação e escreva o artigo atendendo as regras{REGRAS}No máximo 5 linhas por blocos de explicação.Me explique de maneira informal, como se eu fosse uma pessoa leiga.Faça um call to action para minhas redes sociais.Coloque 3 hashtags que façam sentido.Crie subtítulos e separa por blocos cada parte|
+| Ação         | Prompt                                                                                                                                                                                              |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**   | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Segurança da Informação e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast no estilo nerd e que tenha algum trocadilho nerd no nome.O podcast vai falar sobre dicas e novidades sobre o mundo da Segurança da Informação{REGRAS}O nome deve ser enxuto, um nome e um subtítulo O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Super Mario, Zelda,Star Wars.O nome deve conter palavra forte que remeta Segurança da Informação {REGRAS NEGATIVAS}.Não quero que o nome contenha palavra em inglês
 
 
-## 🎨 Lexica.art
-  🔵 Utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa utilizados durante a criação do artigo foram:
-   - 📄 cyber attack
-   - 📄 IoT
 
+## 🧠 Prompt Utilizado para criar o roteiro do primeiro episódio do Podcast 
 
-## ⚒️ Ferramentas
+| Ação         | Prompt                                                                                                                                                                                              |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**   | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Segurança da Informação cujo nome é "Castelo dos Dados" - Defenda seu reino da informação e tem foco em Cibersegurança com o público alvo de iniciantes em Segurança da Informação o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2][FINALIZAÇÃO]{REGRAS}- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan - no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre Senhas - no bloco [CURIOSIDADE 2] sobre uma ferramenta para proteger senha - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Chelle e esse foi o Castelo dos Dados dessa semana'- use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Chelle - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração
 
-- 📄 O conteúdo do Artigo foi criado utilizando o ChatGPT.
-- 🎨 As imagens foram geradas pelo Lexica.art.
-
-## ⚙️ Estrutura do Projeto
-
-- 📁 As imagens utilizadas no Artigo estão localizadas no diretório `article_images`.
-  
-
-## 📜 Instruções de Execução
-
-Para criar o artigo utilizando este projeto, siga os passos abaixo:
-
-1. Utilize os prompts fornecidos acima nas ferramentas sugeridas, como OpenAI GPT-4 para gerar o conteúdo base do Artigo.
-
-2. Utilize uma ferramenta de edição de documentos, como PowerPoint, LibreOffice ou InDesign, para realizar a diagramação e formatação do Artigo.
-
-3. Combine o conteúdo gerado com as imagens criadas no Lexica.art ou outra ferramenta para gerar imagens, seguindo as diretrizes de design e layout de sua escolha.
-
-4. Revise o Artigo finalizado para assegurar que o conteúdo esteja claro, coeso e livre de erros.
-
-✅ Essas etapas ajudarão a transformar o material gerado por IA em um Artigo bem estruturado e visualmente atraente.
 
 ## 👩‍💻 Aprendiz
 
