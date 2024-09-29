@@ -17,7 +17,13 @@
 Projeto com o objetivo de criar um podcast utilizando Inteligência Artificial.
 Abaixo, você encontrará todos os prompts utilizados no desenvolvimento do Episódio piloto do Podcast.
 
-<a href="https://github.com/chellegeek/create-a-podcast-IA/tree/main/output" > 🎧Clique aqui para ouvir o Episódio Piloto</a>
+<a href="https://github.com/chellegeek/create-a-podcast-IA/tree/main/output" > Clique aqui para download do Episódio Piloto</a>
+
+## 🎧 Ouça aqui o Episódio Piloto
+
+
+https://github.com/user-attachments/assets/f66f60f4-e605-491c-b489-116e649f54bb
+
 
 ---
 
@@ -84,3 +90,4 @@ garcia-/">LinkedIn</a>
 </p>
 <br/><br/>
 <p>
+
